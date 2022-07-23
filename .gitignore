@@ -1,6 +1,7 @@
 .env
 public/
 package-lock.json
+.hugo_build.lock
 
 # Logs
 logs
