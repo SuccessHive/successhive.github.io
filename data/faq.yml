@@ -1,19 +1,25 @@
 ---
 enable: true
 title: Frequently asked questions
-description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
+description: 
 faqItem:
-  - question: How to Install Apsho?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: Why should my child enrol for KTC Career Exploration Program?
+    answer: We love test drives and free samples. Helps us choose the right product, isn't it? When the ice-cream place lets you sample multiple flavors before choosing one, it's only fair our kids get to make conscious choices about their futures too, no? The world is changing rapidly and it's our responsibility to send our kids out prepared. At KTC, our misssion is to 'not have any more blue Mondays' for our kids. We help kids dabble with multiple career streams in a hands-on fashion, with actual industry experts, real-life internships and real-life challenges. This not ony helps them decide which career to pick, but also prepares them for their dream careers. After all, we are only as good as our next choice.
     dataTarget: One
     show: show
 
-  - question: Is there any age limit?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: Who should sign up for KTC Career Exploration Program?
+    answer: The KTC Career Exploration Program is ideal for students of grades 8th to 12th. However, anybody, across ages, wanting to explore a different or a new career may find the program useful. 
     dataTarget: Two
     show: 
     
-  - question: How much it costs to get started?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    - question: How many internships are currently available?
+    answer: Currently, we offer internships in computer science engineering and management. But we will soon be launching more internships. If you
+           want us to launch your preferred career option next, let us know here.    
     dataTarget: Three
-    show: 
+    show:    
+    
+    question: How can one sign up?
+    answer: It's simple. Just fill in the lead form (here) with your name, mobile number and email id, and our team will call you within 24 hours and get you onboarded. 
+    dataTarget: Four
+    show:
