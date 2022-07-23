@@ -1,7 +1,7 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://successhive.github.io/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "KTC | Know Thy Choice"
 theme = "apsho"
 
 # Navigation Bar
