@@ -1,16 +1,17 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: You can benefit more than you think
+title: Why should you sign up?
 services:
   - icon: ti-settings
-    title: No Setup
-    description: They generate alignment and engagement
+    title: It's personalized
+    description: We don't believe in one size fitting all. Every kid's experience is designed uniquely, and is personalized for their needs.
 
   - icon: ti-check-box
-    title: Free Trial
-    description: They generate alignment and engagement
+    title: It's gamified
+    description: Learning about careers shouldn't be boring. You can't escape it, so why not embrace it. We make career exploration fun, easy and engaging.
 
   - icon: ti-key
-    title: Quick Access
-    description: They generate alignment and engagement
+    title: It's community-driven
+    description: Imagine the joy of a tribe, friends with similar values and aspirations. Yep, we make that happen. So that your career journeys are a little less trying, and a little more fun. 
+

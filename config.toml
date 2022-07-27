@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "KTC | Know Thy Choice"
 theme = "apsho"
 
 # Navigation Bar
@@ -42,7 +42,7 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
+address = "India"
 email = "apsho@example.com"
 phone = "+(448) 833 5272 332"
 
