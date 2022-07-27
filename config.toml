@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://successhive.github.io/"
 languageCode = "en-us"
 title = "KTC | Know Thy Choice"
 theme = "apsho"
@@ -18,7 +18,7 @@ theme = "apsho"
     url = "#faq"
     weight = 3
 [[menu.main]]
-    name = "Blog"
+    name = "Programs"
     url = "#blog"
     weight = 4
 
@@ -42,8 +42,8 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "India"
-email = "apsho@example.com"
+address = "Bengaluru, India"
+email = "help@knowthychoice.in"
 phone = "+(448) 833 5272 332"
 
 # Footer Social
@@ -60,9 +60,9 @@ formspreeURL = "https://formspree.io/mknyovwz"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = "Get the latest updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright © Apsho {year}"
+copyright2 = "Copyright © KTC 2022 "
 
 #contact
-email = "help@staticmania.com"
+email = "help@knowthychoice.in"
