@@ -40,6 +40,8 @@ __What do you get?__
 
 __Internships starting 6th August__
 
-Limited seats [Apply Now](https://forms.office.com/r/Wwe2xJwWj6)
+Introductory price of **INR 999 /-** only
+
+Only 30 seats per cohort [Apply Now](https://forms.office.com/r/Wwe2xJwWj6)
 
 
