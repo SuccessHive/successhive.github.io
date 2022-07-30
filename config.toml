@@ -10,16 +10,16 @@ theme = "apsho"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "About"
+    name = "Product"
     url = "#feature"
     weight = 2
 [[menu.main]]
-    name = "Services"
-    url = "#faq"
+    name = "Mentors"
+    url = "#mentors"
     weight = 3
 [[menu.main]]
     name = "Programs"
-    url = "#blog"
+    url = "#programs"
     weight = 4
 
 # Footer Sitemap
@@ -43,8 +43,8 @@ theme = "apsho"
 # Footer Address
 [params.address]
 address = "Bengaluru, India"
-email = "help@knowthychoice.in"
-phone = "+(448) 833 5272 332"
+email = "shipra@knowthychoice.in"
+phone = "+91 626 878 8090"
 
 # Footer Social
 [params.social]
@@ -65,4 +65,4 @@ copyright1 = "All right reserved"
 copyright2 = "Copyright © KTC 2022 "
 
 #contact
-email = "help@knowthychoice.in"
+email = "shipra@knowthychoice.in"

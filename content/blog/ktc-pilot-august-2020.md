@@ -1,5 +1,5 @@
 ---
-title: "KTC Virtual Internship Lab"
+title: "KTC Career Exploration Lab"
 date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/blog-post-6.jpg
