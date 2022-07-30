@@ -1,8 +1,9 @@
 ---
 enable: true
 title: Know Thy Choice
-caption: Enabling kids to make better career decisions
-description: A perfect concoction of diagnostics, coaching, mentorship and exploration- our platform helps kids in picking the right career, and getting the right guidance to pursue them. 
-buttonName: Availble 
-button1text: Register Now
-image: images/hero/hero-image.svg
+caption: India's First Career Experienceship Platform
+description: A perfect concoction of diagnostics, coaching, mentorship and exploration- our platform helps students in picking the right career, and getting the right guidance to pursue them. 
+buttonName: Live Now 
+button1text: Register Today
+image: images/hero/landing-main.svg
+reg_icon: images/hero/register-icon.svg
