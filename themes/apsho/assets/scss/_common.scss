@@ -31,6 +31,14 @@ a {
   }
 }
 
+.mt-25 {
+  margin-top: 25px;
+
+  @include desktop {
+    margin-top: 0px;
+  }
+}
+
 .mr-25 {
   margin-right: 25px;
 
