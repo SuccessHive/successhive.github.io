@@ -1,7 +1,7 @@
 ---
 title: "KTC Career Exploration Lab"
 date: 2022-07-27T20:20:44+05:30
-draft: false
+draft: true
 featureImage: images/blog/blog-post-6.jpg
 author: Shipra Chandra
 authorThumb: images/client/author-shipra.png

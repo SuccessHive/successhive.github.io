@@ -1,5 +1,5 @@
 ---
-title: "Experienceship : Marketing"
+title: "Marketing Internship"
 date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/marketing-cover.jpg
@@ -7,11 +7,12 @@ author: Shipra Chandra
 authorThumb: images/client/author-shipra.png
 ---
 
-## Experienceship : Marketing
+## Marketing Internship
 
 # [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
 
-At __Know Thy Choice (KTC)__, we are on a mission to empower kids to make informed career decisions.
+
+At __Know Thy Choice (KTC)__, we are on a mission to empower students to make informed career decisions.
 
 We have collaborated with top industry experts to design virtual internships for school students. Through guided online sessions, students can deep dive into different careers and experience them first-hand through simulations, hands-on activities and role playing games.
 
@@ -36,7 +37,6 @@ __Channel:__ Live, Online sessions
 __What do you get?__
 - Certificate of Completion
 - Exciting prizes for top performers
-- Complimentary psychometric assessment
 - Lifetime access to career resources 
 - Lifetime access to KTC Community channels
 
@@ -54,7 +54,7 @@ __Concepts Covered__
 - Case Study 2
 - Project Presentation and Evaluation
 
-__Bonus:__  1 LIVE interactive session on 'Careers in marketing and how to pursue them' for parents with an industry expert.
+__Bonus:__  1 LIVE interactive session on 'Careers in marketing and how to pursue them' for students and parents with an industry expert.
 
 Price of **INR 999 /-** only
 

@@ -1,13 +1,13 @@
 ---
-title: "Digital Marketing Internship"
+title: "Data Science Internship"
 date: 2022-07-27T20:20:44+05:30
 draft: false
-featureImage: images/blog/digital-marketing-cover.jpg
+featureImage: images/blog/data-science-cover.jpg
 author: Shipra Chandra
 authorThumb: images/client/author-shipra.png
 ---
 
-## Marketing Internship
+## Data Science Internship
 
 # [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
 
@@ -16,7 +16,7 @@ At __Know Thy Choice (KTC)__, we are on a mission to empower students to make in
 
 We have collaborated with top industry experts to design virtual internships for school students. Through guided online sessions, students can deep dive into different careers and experience them first-hand through simulations, hands-on activities and role playing games.
 
-![blog image](/images/blog/digital-marketing-post-1.jpg)
+![blog image](/images/blog/data-science-post-1.jpg)
 
 
 __Ideal for classes:__ 9th to 12th
@@ -42,19 +42,16 @@ __What do you get?__
 
 
 __Concepts Covered__
-- Introduction to Digital Marketing
-- How is digital marketing different from other types of marketing
-- Channels and audiences
-- How to choose a medium
-- Types of digital marketing
-- Targeting and campaigns
-- Metrics and analytics
-- Group Assignment
-- Case Study
-- Project Presentation & Evaluation
+- Introduction to The World Of Data Science
+- Preparation Data & picking Attributes
+- Data Cleaning
+- Data Exploration And Analysis
+- Data Modeling
+- Data Validation
+- Project: Analyze data for a real case study
+- End of Intern Presentations & Evaluation
 
-
-__Bonus:__  1 LIVE interactive session on 'Careers in digital marketing and how to pursue them' for students & parents with an industry expert.
+__Bonus:__  1 LIVE interactive session on 'Careers in Data Science and how to pursue them' for students and parents with an industry expert.
 
 Price of **INR 999 /-** only
 
