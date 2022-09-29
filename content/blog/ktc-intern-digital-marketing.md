@@ -1,5 +1,6 @@
 ---
 title: "Digital Marketing Internship"
+description: "Wondering what all the buzz is? Experience first hand a career in Digital marketing to see if you are a fit."
 date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/digital-marketing-cover.jpg
@@ -7,7 +8,7 @@ author: Shipra Chandra
 authorThumb: images/client/author-shipra.png
 ---
 
-## Marketing Internship
+## Digital Marketing Internship
 
 # [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
 

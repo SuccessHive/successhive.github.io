@@ -30,7 +30,12 @@
                   >{{ .Title }}</a
                 >
               </h2>
-              <div class="post-author">
+              <div>
+                <p>
+                  {{ .Description }}
+                </p>
+              </div>
+              <!-- <div class="post-author">
                 <div class="thumb">
                   <img src="{{ .Params.authorThumb | absURL }}" alt="author-thumb" />
                 </div>
@@ -38,7 +43,7 @@
                   <h3>{{ .Params.author }}</h3>
                   <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
                 </div>
-              </div>
+              </div> -->
             </div>
           </article>
         </div>
@@ -46,7 +51,7 @@
       <div class="col-lg-12">
         <div class="blog-pagination">
           <nav>
-            <!-- <ul class="pagination">
+            <ul class="pagination">
               <li class="page-item active" aria-current="page">
                 <span class="page-link">
                   1
@@ -60,7 +65,7 @@
                   <i class="ti-angle-right"></i>
                 </a>
               </li>
-            </ul> -->
+            </ul>
             {{ template "_internal/pagination.html" . }}
           </nav>
         </div>

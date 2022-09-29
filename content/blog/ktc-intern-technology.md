@@ -1,6 +1,7 @@
 ---
 title: "Technology Internship"
 date: 2022-07-27T20:20:44+05:30
+description: "Ever wondered if a career in technology is for you? This internship will help you find out."
 draft: false
 featureImage: images/blog/tech-cover.jpg
 author: Shipra Chandra

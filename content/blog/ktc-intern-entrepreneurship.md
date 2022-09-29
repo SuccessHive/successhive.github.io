@@ -1,6 +1,7 @@
 ---
 title: "Entrepreneurship"
 date: 2022-07-27T20:20:44+05:30
+description: "Have an idea, or wondering how to get an idea? Learn the ropes of starting and running a company. It’s never too early!"
 draft: false
 featureImage: images/blog/entreprenuership-cover.jpg
 author: Shipra Chandra

@@ -25,13 +25,16 @@
                   >
                 </h2>
                 <div class="post-author">
-                  <div class="thumb">
+                  <!-- <div class="thumb">
                     <img src="{{ .Params.authorThumb }}" alt="author-thumb" />
-                  </div>
+                  </div> -->
                   <div class="meta">
+                    <p>{{ .Description }}</p>
+                  </div>
+                  <!-- <div class="meta">
                     <h3>{{ .Params.author }}</h3>
                     <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </article>

@@ -1,5 +1,6 @@
 ---
 title: "Marketing Internship"
+description: "Design a marketing plan for a company and experience a career in Marketing"
 date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/marketing-cover.jpg

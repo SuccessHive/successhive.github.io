@@ -1,6 +1,7 @@
 ---
 title: "UX Design Internship"
 date: 2022-07-27T20:20:44+05:30
+description: "Experience a career in UX design to find out what this new age career entails."
 draft: false
 featureImage: images/blog/ux-cover.jpg
 author: Shipra Chandra
