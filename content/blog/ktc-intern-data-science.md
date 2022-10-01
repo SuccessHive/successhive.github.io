@@ -10,7 +10,7 @@ authorThumb: images/client/author-shipra.png
 
 ## Data Science Internship
 
-# [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
+# [Apply Now](https://rzp.io/l/knowthychoice-datascience){style=text-align:center}
 
 
 At __Know Thy Choice (KTC)__, we are on a mission to empower students to make informed career decisions.
@@ -56,4 +56,4 @@ __Bonus:__  1 LIVE interactive session on 'Careers in Data Science and how to pu
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
+# [Apply Now](https://rzp.io/l/knowthychoice-datascience){style=text-align:center}

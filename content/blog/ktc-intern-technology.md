@@ -10,7 +10,7 @@ authorThumb: images/client/author-shipra.png
 
 ## Technology Internship
 
-# [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
+# [Apply Now](https://rzp.io/l/knowthychoice-technology){style=text-align:center}
 
 At __Know Thy Choice (KTC)__, we are on a mission to empower kids to make informed career decisions.
 
@@ -57,4 +57,4 @@ __Bonus:__  1 LIVE interactive session on 'Careers in technology and how to purs
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
+# [Apply Now](https://rzp.io/l/knowthychoice-technology){style=text-align:center}

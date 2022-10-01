@@ -10,7 +10,7 @@ authorThumb: images/client/author-shipra.png
 
 ## Marketing Internship
 
-# [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
+# [Apply Now](https://rzp.io/l/knowthychoice-marketing){style=text-align:center}
 
 
 At __Know Thy Choice (KTC)__, we are on a mission to empower students to make informed career decisions.
@@ -59,4 +59,4 @@ __Bonus:__  1 LIVE interactive session on 'Careers in marketing and how to pursu
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://forms.office.com/r/Wwe2xJwWj6){style=text-align:center}
+# [Apply Now](https://rzp.io/l/knowthychoice-marketing){style=text-align:center}
