@@ -28,8 +28,8 @@ theme = "apsho"
     url = "#"
     weight = 1
 [[menu.sitemap]]
-    name = "Latest Article"
-    url = "/blog"
+    name = "Terms & Conditions"
+    url = "/tnc"
     weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
