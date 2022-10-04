@@ -31,6 +31,7 @@ __Each Experienceship includes the following:__
 __Duration:__
 - 10 sessions covered in 2 weeks
 - 1 Hour per session
+- New Batch every Monday
 
 __Channel:__ Live, Online sessions
 

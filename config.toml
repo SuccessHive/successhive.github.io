@@ -36,13 +36,13 @@ theme = "apsho"
     url = "/privacy"
     weight = 3
 [[menu.sitemap]]
-    name = "Contact"
+    name = "Get In Touch"
     url = "/contact"
     weight = 4
 
 # Footer Address
 [params.address]
-address = "Bengaluru, India"
+address = "6 Artillary Road, Bengaluru, India"
 email = "shipra@knowthychoice.in"
 phone = "+91 626 878 8090"
 
