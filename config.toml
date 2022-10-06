@@ -32,7 +32,7 @@ theme = "apsho"
     url = "/tnc"
     weight = 2
 [[menu.sitemap]]
-    name = "Privacy & Policy"
+    name = "Privacy Policy"
     url = "/privacy"
     weight = 3
 [[menu.sitemap]]
