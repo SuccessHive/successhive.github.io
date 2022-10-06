@@ -36,20 +36,24 @@ theme = "apsho"
     url = "/privacy"
     weight = 3
 [[menu.sitemap]]
+    name = "Refund Policy"
+    url = "/refund"
+    weight = 4
+[[menu.sitemap]]
     name = "Get In Touch"
     url = "/contact"
-    weight = 4
+    weight = 5
 
 # Footer Address
 [params.address]
-address = "6 Artillary Road, Bengaluru, India"
+address = "#6 Artillary Road, Bengaluru, India"
 email = "shipra@knowthychoice.in"
 phone = "+91 626 878 8090"
 
 # Footer Social
 [params.social]
 facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
+linkedin = "https://linkedin.com/knowthychoice"
 github = "https://github.com/StaticMania"
 
 [params]
@@ -57,7 +61,7 @@ github = "https://github.com/StaticMania"
 # Header
 logo = "images/logo.png"
 formspreeURL = "https://formspree.io/mknyovwz"
-googleAnalytics = "UA-175025671-2"
+googleAnalytics = "G-251ESPDTK1"
 
 # Footer
 footerTitle = "Get the latest updates"
