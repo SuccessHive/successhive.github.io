@@ -48,7 +48,7 @@ a {
 }
 
 .form-control {
-  min-height: 52px;
+  // min-height: 52px;
   margin-bottom: 30px;
   padding: 15px 20px;
   font-size: 15px;
@@ -63,9 +63,14 @@ a {
   }
 }
 
+.footer-subscribe-div {
+  margin-bottom: 2%;
+}
+
 .page {
   &-header {
-    padding: 130px 0 200px;
+    max-height: max-content;
+    padding: 90px 0 160px;
     background-color: $white;
     text-align: center;
     margin: 130px 100px 0;

@@ -6,21 +6,32 @@ theme = "apsho"
 
 # Navigation Bar
 [[menu.main]]
-    name = "Home"
-    url = "#hero"
+    name = "Programs"
+    url = "#"
     weight = 1
 [[menu.main]]
-    name = "Product"
-    url = "#feature"
+    name = "Career Exploration Lab"
+    url = "/experienceship"
+    parent = "Programs"
+    weight = 1
+[[menu.main]]
+    name = "KTC Talks"
+    url = "/ktctalks"
+    parent = "Programs"
     weight = 2
 [[menu.main]]
-    name = "Mentors"
-    url = "#mentors"
+    name = "Counselling"
+    url = "/counselling"
+    parent = "Programs"
     weight = 3
 [[menu.main]]
-    name = "Programs"
-    url = "#programs"
-    weight = 4
+    name = "About"
+    url = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Blogs"
+    url = "/blog"
+    weight = 3
 
 # Footer Sitemap
 [[menu.sitemap]]
@@ -40,21 +51,21 @@ theme = "apsho"
     url = "/refund"
     weight = 4
 [[menu.sitemap]]
-    name = "Get In Touch"
+    name = "Contact Us"
     url = "/contact"
     weight = 5
 
 # Footer Address
 [params.address]
-address = "#6 Artillary Road, Bengaluru, India"
-email = "shipra@knowthychoice.in"
-phone = "+91 626 878 8090"
+address = "Bengaluru, India"
+email = "hello@knowthychoice.in"
+phone = "+91 874 595 6961"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-linkedin = "https://linkedin.com/knowthychoice"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/profile.php?id=100089246206640"
+instagram = "https://www.instagram.com/knowthychoice/"
+linkedin = "https://www.linkedin.com/company/knowthychoice/"
 
 [params]
 
@@ -66,7 +77,7 @@ googleAnalytics = "G-251ESPDTK1"
 # Footer
 footerTitle = "Get the latest updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright © KTC 2022 "
+copyright2 = "Copyright © KTC {year} "
 
 #contact
 email = "shipra@knowthychoice.in"

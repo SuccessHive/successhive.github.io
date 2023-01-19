@@ -179,3 +179,49 @@
 .headroom--pinned {
   top: 0;
 }
+
+.dropdown-nav {
+  position: relative;
+}
+
+.sub-menu {
+  display: none;
+  position: fixed;
+  margin: 0%;
+  padding: 0%;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 20px;
+  overflow: hidden;
+  @include mobile {
+    position: relative;
+    padding: 2%;
+    width: 100%;
+    // border: none;
+  }
+}
+
+.sub-menu-nav-item {
+  color: black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  text-align: left;
+  width: 100%;
+  list-style-type: none;
+  padding: 1%;
+  &:last-child {
+    border: none;
+  }
+}
+
+.sub-menu-nav-item:hover {
+  background-color: rgba(255, 115, 128, 0.3);
+}
+
+.dropdown-nav:hover .sub-menu{
+  display: inline-block;
+}
+
+.dropdown-nav:focus .sub-menu{
+  display: inline;
+}
