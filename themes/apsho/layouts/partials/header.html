@@ -26,9 +26,33 @@
       
       {{ $menu := .Site.Menus.main }}
       <ul class="navbar-nav ml-auto">
+        <!-- {{ range .Site.Menus.main }}
+        <li class="{{ if $.HasMenuCurrent "main" . }}active{{ end }}">
+            <span>{{ .Name }}</span>
+            {{ if .HasChildren }}
+            <span class="drop-icon" for="{{ .Name }}">▾</span>
+            <ul class="sub-menu">
+                {{ range .Children }}
+                <li class="{{ if $.HasMenuCurrent "main" . }}active{{ end }}">
+                    <span>{{ .Name }}</span>
+                </li>
+                {{ end }}
+            </ul>
+           {{ end }}
+        </li>
+        {{ end }} -->
       {{ range $index, $element := $menu }}
-        <li class="nav-item">
+        <li class="nav-item {{ if .HasChildren }}dropdown-nav{{end}}">
           <a href="{{ $.Site.BaseURL }}{{ .URL }}" class="nav-link {{ if $.IsHome }}scroll{{ end }}">{{ .Name }}</a>
+          {{ if .HasChildren }}
+              <ul class="sub-menu">
+                {{ range .Children }}
+                <li class="nav-item sub-menu-nav-item">
+                    <a href="{{ $.Site.BaseURL }}{{ .URL }}" class="nav-link">{{ .Name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+           {{ end }}
         </li>
       {{ end }}
       </ul>

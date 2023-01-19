@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<section class="page-header">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h1>{{ .Title }}</h1>
+        <p>
+          {{ .Params.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ with .Site.Data.testimonial }}
+  {{ if .enable }}
+<section class="blog">
+  <div class="container">
+    <div class="row">
+      <h2>The Team</h2>
+      <div class="my-5">
+          {{ $Section := .comments }}
+          {{ range $Section }}
+            <div class="testimonial-slider-item">
+              <div class="testimonial-slider-person">
+                <div class="thumb">
+                  <img src={{ .image }} alt="person-thumb" />
+                </div>
+                <div class="content">
+                  <h3> {{ .name }} </h3>
+                  <p>{{ .designation }}</p>
+                  <a href="{{ .social_li_profile }}"><i class="ti-linkedin"></i></a>
+                </div>
+              </div>
+              <p>{{ .text }}</p>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

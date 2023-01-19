@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Career Exploration Lab
-description: This unique program helps kids experience real careers, under actual industry experts. It's a comprehensive program designed specifically for school students, to understand the nuances of different careers and chart out their future roadmap, should they decide to pursue one.
+description: "This unique program helps kids experience real careers, under actual industry experts. It's a comprehensive program designed specifically for school students, to understand the nuances of different careers and chart out their future roadmap, should they decide to pursue one."
 description2: 
 buttonText: Register Now
 
@@ -13,9 +13,9 @@ image3: images/feature/career-counselling.svg
 #  - text: Select or enter the domain name you want to use.
 #  - text: After you purchase a hosting plan.
 
-Title2nd: Assessments
-description2nd: We have curated a wide varierty of tests for students to discover their strengths, interests, dominant traits and aptitude. This helps them understand themselves a tad bit better, and take timely action towards realization of their goals. As Lao Tzu said, 'They who know others are wise. They who knows themselves are enlightened'.
+Title2nd: KTC Talks
+description2nd: We conduct career talks with industry experts to give students a sneak preview of their future careers. These talks help demystify careers for students and give them a realistic understanding of what to expect from a career.
 buttonText: Register Now
 
-Title3rd: Career Couseling
+Title3rd: Career Counselling
 description3rd: Even though most careers start post school, most of the career decisions are often made during the school period. We believe career guidance is a basic need and we have brought together some of the top couseling professionals to guide kids with their career choices. And this happens not in isolated encounters, but at regular intervals, in an iterative way, throughout the course of the kid's high school years.
