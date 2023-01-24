@@ -6,7 +6,7 @@ description: "Experience a career in UX design to find out what this new age car
 draft: false
 featureImage: images/blog/ux-cover.jpg
 author: Shipra Chandra
-typeDate: Research Experienceship | Feb 2023
+typeDate: UX Designer | March 2023
 cost: ₹1,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
@@ -56,4 +56,4 @@ __Bonus:__  1 LIVE interactive session on 'Careers in UX & Design and how to pur
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://rzp.io/l/knowthychoice-uxdesign){style=text-align:center}
+<!-- # [Apply Now](https://rzp.io/l/knowthychoice-uxdesign){style=text-align:center} -->

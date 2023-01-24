@@ -6,7 +6,7 @@ description: "Have an idea, or wondering how to get an idea? Learn the ropes of 
 draft: false
 featureImage: images/blog/entreprenuership-cover.jpg
 author: Shipra Chandra
-typeDate: Research Experienceship | Feb 2023
+typeDate: Entrepreneur | March 2023
 cost: ₹1,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
@@ -65,4 +65,4 @@ __Bonus:__  1 LIVE interactive session on 'Entrepreneurship as a career' for stu
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://rzp.io/l/knowthychoice-entrepreneurship){style=text-align:center}
+<!-- # [Apply Now](https://rzp.io/l/knowthychoice-entrepreneurship){style=text-align:center} -->
