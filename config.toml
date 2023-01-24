@@ -10,7 +10,7 @@ theme = "apsho"
     url = "#"
     weight = 1
 [[menu.main]]
-    name = "Career Exploration Lab"
+    name = "Career Labs"
     url = "/experienceship"
     parent = "Explore Careers"
     weight = 1
@@ -20,7 +20,7 @@ theme = "apsho"
     parent = "Explore Careers"
     weight = 2
 [[menu.main]]
-    name = "Counselling"
+    name = "Career Counselling"
     url = "/counselling"
     parent = "Explore Careers"
     weight = 3
@@ -80,4 +80,4 @@ copyright1 = "All right reserved"
 copyright2 = "Copyright © KTC {year} "
 
 #contact
-email = "shipra@knowthychoice.in"
+email = "hello@knowthychoice.in"
