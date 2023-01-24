@@ -1,11 +1,11 @@
 ---
-title: "KTC Career Exploration Lab"
-titleToShow: "KTC Career Exploration Lab"
+title: "Pilot"
+titleToShow: "Pilot"
 date: 2022-07-27T20:20:44+05:30
 draft: true
 featureImage: images/blog/blog-post-6.jpg
 author: Shipra Chandra
-typeDate: Research Experienceship | Feb 2023
+typeDate: Pilot Internship | March 2023
 cost: ₹1,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
@@ -43,6 +43,6 @@ __Internships starting 6th August__
 
 Introductory price of **INR 999 /-** only
 
-Only 30 seats per cohort [Apply Now](https://forms.office.com/r/Wwe2xJwWj6)
+<!-- Only 30 seats per cohort [Apply Now](https://forms.office.com/r/Wwe2xJwWj6) -->
 
 

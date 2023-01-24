@@ -6,7 +6,7 @@ date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/digital-marketing-cover.jpg
 author: Shipra Chandra
-typeDate: Research Experienceship | Feb 2023
+typeDate: Digital Markiteer | March 2023
 cost: ₹1,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
@@ -60,4 +60,4 @@ __Bonus:__  1 LIVE interactive session on 'Careers in digital marketing and how 
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://rzp.io/l/knowthychoice-digitalmarketing){style=text-align:center}
+<!-- # [Apply Now](https://rzp.io/l/knowthychoice-digitalmarketing){style=text-align:center} -->

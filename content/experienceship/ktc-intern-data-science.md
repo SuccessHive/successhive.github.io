@@ -6,7 +6,7 @@ date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/data-science-cover.jpg
 author: Shipra Chandra
-typeDate: Research Experienceship | Feb 2023
+typeDate: Data Scientist | March 2023
 cost: ₹1,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
@@ -57,4 +57,4 @@ __Bonus:__  1 LIVE interactive session on 'Careers in Data Science and how to pu
 
 Price of **INR 999 /-** only
 
-# [Apply Now](https://rzp.io/l/knowthychoice-datascience){style=text-align:center}
+<!-- # [Apply Now](https://rzp.io/l/knowthychoice-datascience){style=text-align:center} -->
