@@ -1,5 +1,6 @@
 ---
 title: "Career in Animation"
+titleToShow: "Career in Animation"
 description: "In this talk, Kajal will talk about her journey to animation, what are the different paths to a career in animation, what are the skills you should develop. Join this talk to ask her al your questions and clarify all your doubts. "
 date: 2022-07-27T20:20:44+05:30
 draft: false

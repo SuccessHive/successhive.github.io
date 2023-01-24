@@ -6,23 +6,23 @@ theme = "apsho"
 
 # Navigation Bar
 [[menu.main]]
-    name = "Programs"
+    name = "Explore Careers"
     url = "#"
     weight = 1
 [[menu.main]]
     name = "Career Exploration Lab"
     url = "/experienceship"
-    parent = "Programs"
+    parent = "Explore Careers"
     weight = 1
 [[menu.main]]
     name = "KTC Talks"
     url = "/ktctalks"
-    parent = "Programs"
+    parent = "Explore Careers"
     weight = 2
 [[menu.main]]
     name = "Counselling"
     url = "/counselling"
-    parent = "Programs"
+    parent = "Explore Careers"
     weight = 3
 [[menu.main]]
     name = "About"
