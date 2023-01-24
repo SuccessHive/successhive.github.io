@@ -1,9 +1,12 @@
 ---
 title: "KTC Career Exploration Lab"
+titleToShow: "KTC Career Exploration Lab"
 date: 2022-07-27T20:20:44+05:30
 draft: true
 featureImage: images/blog/blog-post-6.jpg
 author: Shipra Chandra
+typeDate: Research Experienceship | Feb 2023
+cost: ₹1,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

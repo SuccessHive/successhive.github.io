@@ -1,4 +1,4 @@
-{{ with .Site.Data.homeblog }}
+{{ with .Site.Data.homecareer }}
   {{ if .enable }}
     <section class="blog-post" id="programs">
       <div class="container">
@@ -21,7 +21,7 @@
               <div class="blog-post-content">
                 <h2>
                   <a href="{{ .Permalink }}"
-                    >{{ .Title }}</a
+                    >{{ .Params.titleToShow }}</a
                   >
                 </h2>
                 <div class="post-author">
