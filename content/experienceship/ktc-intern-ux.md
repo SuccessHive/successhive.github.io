@@ -1,4 +1,5 @@
 ---
+weight: 7
 title: "UX Design Internship"
 titleToShow: "UX Design Internship"
 date: 2022-07-27T20:20:44+05:30

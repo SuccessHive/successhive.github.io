@@ -39,7 +39,7 @@
 <section class="blog">
   <div class="container" style="margin: auto;">
     <div class="row">
-      {{ range (.Paginator 6).Pages }}
+      {{ range sort (.Paginator 6).Pages.ByWeight }}
         <div class="col-lg-4 col-md-6">
           {{ if (eq .Params.live true) }}
           <article class="blog-post-item" style="position: relative;">

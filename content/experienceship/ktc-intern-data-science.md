@@ -1,5 +1,6 @@
 ---
-title: "Data Science Internship"
+weight: 2
+# title: "Data Science Internship"
 titleToShow: "Data Science Internship"
 description: "If data is king, and insights maketh a business, data science is the future. Take this internship to understand if you will love it too"
 date: 2022-07-27T20:20:44+05:30

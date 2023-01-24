@@ -1,4 +1,5 @@
 ---
+weight: 6
 title: "Entrepreneurship"
 titleToShow: "Entrepreneurship"
 date: 2022-07-27T20:20:44+05:30
