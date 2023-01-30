@@ -7,7 +7,7 @@ draft: true
 featureImage: images/blog/blog-post-6.jpg
 author: Shipra Chandra
 typeDate: Pilot Internship | March 2023
-cost: ₹1,999 (including GST) 
+cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

@@ -8,7 +8,7 @@ draft: false
 featureImage: images/blog/ux-cover.jpg
 author: Shipra Chandra
 typeDate: UX Designer | March 2023
-cost: ₹1,999 (including GST) 
+cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

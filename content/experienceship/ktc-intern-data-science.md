@@ -8,7 +8,7 @@ draft: false
 featureImage: images/blog/data-science-cover.jpg
 author: Shipra Chandra
 typeDate: Data Scientist | March 2023
-cost: ₹1,999 (including GST) 
+cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 
