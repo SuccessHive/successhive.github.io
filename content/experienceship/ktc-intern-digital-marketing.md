@@ -1,13 +1,14 @@
 ---
-title: "Digital Marketing Internship"
+weight: 3
+# title: "Digital Marketing Internship"
 titleToShow: "Digital Marketing Internship"
 description: "Wondering what all the buzz is? Experience first hand a career in Digital marketing to see if you are a fit."
 date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/digital-marketing-cover.jpg
 author: Shipra Chandra
-typeDate: Digital Markiteer | March 2023
-cost: ₹1,999 (including GST) 
+typeDate: Digital Marketeer | March 2023
+cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

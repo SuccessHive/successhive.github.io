@@ -1,7 +1,10 @@
 ---
 title: "About Us"
 date: 2020-08-31T20:33:11+06:00
-description: "Know Thy Choice is an end-to-end career guidance platform for teens. We help students explore multiple careers through Career Awareness Talks and Internships and help them make informed decisions about their careers. "
+# description: "Know Thy Choice is an end-to-end career guidance platform for teens. We help students explore multiple careers through Career Awareness Talks and Internships and help them make informed decisions about their careers. "
+description: "Know Thy Choice was born from a collective desire  
+At Know Thy Choice, our vision is to empower every student to make an informed career decision. We believe in the right to be able to do the work one desires and the right to find one’s work desirable. We believe work to be a means of attaining one’s Eudaimonia and our goal is to help students find fulfilling careers.
+An average high school student in India is aware of only 7 career options, and we strive to change that. Our team comprising of alumni from top colleges of India and abroad have devised programs to provide students with hands-on experience of real careers. This helps students experience careers before embarking on the path. This way, students are able to evaluate their options and make well-informed decisions. "
 enable: true
 comments:
   - text: Shipra is the Co-Founder and CEO of Know Thy Choice. In past, she has led strategy, marketing and partnerships for several high growth FinTech startups. She has extensive expereince teaching and mentoring students.

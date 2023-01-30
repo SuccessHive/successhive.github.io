@@ -1,4 +1,5 @@
 ---
+weight: 6
 title: "Entrepreneurship"
 titleToShow: "Entrepreneurship"
 date: 2022-07-27T20:20:44+05:30
@@ -7,7 +8,7 @@ draft: false
 featureImage: images/blog/entreprenuership-cover.jpg
 author: Shipra Chandra
 typeDate: Entrepreneur | March 2023
-cost: ₹1,999 (including GST) 
+cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

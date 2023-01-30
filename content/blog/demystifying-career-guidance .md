@@ -1,6 +1,8 @@
 ---
 title: Demystifying Career Guidance 
-author: Shipra Chandra 
+author: "Shipra Chandra"
+datePublished: "January, 2023"
+featureImage: images/blog/demystifying-career-guidance.jpg
 ---
 
 In the digitally connected modern world, we are moving away from the notion of viewing work and life as two separate components. Work is increasingly being embraced as a subset of life and we are moving towards the understanding that the quality of one's work directly impacts the overall quality of one’s life.  

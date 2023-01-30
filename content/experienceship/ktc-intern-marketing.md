@@ -1,4 +1,5 @@
 ---
+weight: 4
 title: "Marketing Internship"
 titleToShow: "Marketing Internship"
 description: "Design a marketing plan for a company and experience a career in Marketing"
@@ -7,7 +8,7 @@ draft: false
 featureImage: images/blog/marketing-cover.jpg
 author: Shipra Chandra
 typeDate: Marketeer | March 2023
-cost: ₹1,999 (including GST) 
+cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

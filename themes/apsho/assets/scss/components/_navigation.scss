@@ -22,6 +22,7 @@
   .navbar-nav {
     .nav-item {
       .nav-link {
+        width: max-content;
         color: $text-color-dark;
         padding-left: 20px;
         font-weight: 500;

@@ -42,3 +42,30 @@ h3 {
 h4 {
   font-size: 20px;
 }
+
+.explore-career-heading {
+  padding-left: 10%;
+
+  @media(max-width:575px){
+    padding: 0%;
+  }
+
+}
+
+.explore-career-viewall {
+  // float: inline-end;
+  float: right;
+  margin-top: 2vh;
+  color: $primary-color;
+
+  @media(max-width:575px){
+    float: none;
+    justify-self: center;
+  }
+
+}
+
+.explore-career-viewall:hover {
+  // color: $primary-color;
+  text-decoration: underline;
+}
