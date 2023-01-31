@@ -11,4 +11,5 @@ estimatedDuration: "4-5pm"
 authorThumb: images/client/author-shipra.png
 tag: past
 youtubeLink: "https://youtu.be/JWNtrDg09fM"
+youtubeEmbedUrl: "https://www.youtube.com/embed/JWNtrDg09fM"
 ---

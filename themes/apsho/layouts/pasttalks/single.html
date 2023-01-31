@@ -28,9 +28,10 @@
 
       <div class="container">
         <div class="my-3 row justify-content-center">
-          <a href="{{ .Params.youtubeLink }}"  target="_blank" data-text="Watch Now!" class="btn btn-primary" style="width: 80%;">
+          <iframe width="750" height="450" src="{{ .Params.youtubeEmbedUrl }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <!-- <a href="{{ .Params.youtubeLink }}"  target="_blank" data-text="Watch Now!" class="btn btn-primary" style="width: 80%;">
             <span>Watch Now!</span>
-          </a>
+          </a> -->
         </div>
       </div>
     </article>
