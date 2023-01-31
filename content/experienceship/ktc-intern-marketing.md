@@ -7,6 +7,7 @@ date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/marketing-cover.jpg
 author: Shipra Chandra
+social_li_profile:
 typeDate: Marketeer | March 2023
 cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png

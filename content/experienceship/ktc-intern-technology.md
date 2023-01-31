@@ -7,6 +7,7 @@ description: "Ever wondered if a career in technology is for you? This internshi
 draft: false
 featureImage: images/blog/tech-cover.jpg
 author: Shipra Chandra
+social_li_profile:
 typeDate: Technocrat | March 2023
 cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
