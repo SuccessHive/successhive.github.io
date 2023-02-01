@@ -2,6 +2,7 @@
 title: "Career Exploration Lab"
 date: 2020-08-31T20:33:11+06:00
 description: "Doing an internship and experiencing a career first-hand helps students to make more informed decisions about future careers."
+keyHighlightsHeader: "Key Highlights:" 
 keyHighlights:
 - highlight: "Guided sessions by top industry experts"
 - highlight: "Hands-on project experience"
