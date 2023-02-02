@@ -39,17 +39,16 @@
               <p>{{ .text }}</p>
             </div> -->
             <div class="col-lg-4 col-md-6">
-              <article class="blog-post-item" style="height: 500px; min-height: max-content;">
-                <div class="blog-post-thumb">
-                  <!-- <div class="thumb"> -->
-                    <img src={{ .image }} alt="person-thumb" />
-                  <!-- </div> -->
+              <article class="blog-post-item" style="min-height: fit-content; height: 29vh;">
+                  <div class="testimonial-slider-person">
+                  <img src={{ .image }} alt="person-thumb" style="border-radius: 50%; width: 80ox; height: 80px;"/>
+                <div class="content">
+                  <h3> {{ .name }} </h3>
+                  <p style="line-height: 150%;">{{ .designation }}</p>
+                  <a href="{{ .social_li_profile }}"><i class="ti-linkedin"></i></a>
                 </div>
-                <div class="blog-post-content">
-                  <h5>{{ .name }}</h5>
-                    <h6>
-                      {{ .designation }}
-                    </h6>
+              </div>
+                <div class="blog-post-content my-4">
                     <p>
                       {{ .text }}
                     </p>

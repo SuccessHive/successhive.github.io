@@ -7,6 +7,7 @@ description: "Experience a career in UX design to find out what this new age car
 draft: false
 featureImage: images/blog/ux-cover.jpg
 author: Shipra Chandra
+social_li_profile:
 typeDate: UX Designer | March 2023
 cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png

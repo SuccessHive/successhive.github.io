@@ -7,6 +7,7 @@ description: "Have an idea, or wondering how to get an idea? Learn the ropes of 
 draft: false
 featureImage: images/blog/entreprenuership-cover.jpg
 author: Shipra Chandra
+social_li_profile:
 typeDate: Entrepreneur | March 2023
 cost: ₹4,999 (including GST) 
 authorThumb: images/client/author-shipra.png
