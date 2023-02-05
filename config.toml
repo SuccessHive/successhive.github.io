@@ -10,7 +10,7 @@ theme = "apsho"
     url = "#"
     weight = 1
 [[menu.main]]
-    name = "Career Labs"
+    name = "Career Exploration Lab"
     url = "/experienceship"
     parent = "Explore Careers"
     weight = 1

@@ -8,8 +8,8 @@ draft: false
 featureImage: images/blog/entreprenuership-cover.jpg
 author: Shipra Chandra
 social_li_profile:
-typeDate: Entrepreneur | March 2023
-cost: ₹4,999 (including GST) 
+typeDate: May 2023
+cost: ₹4,999 (incl. GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

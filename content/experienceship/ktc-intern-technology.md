@@ -1,15 +1,15 @@
 ---
-weight: 5
-title: "Technology Internship"
-titleToShow: "Technology Internship"
+weight: 7
+title: "CS Engineering"
+titleToShow: "CS Engineering "
 date: 2022-07-27T20:20:44+05:30
 description: "Ever wondered if a career in technology is for you? This internship will help you find out."
 draft: false
 featureImage: images/blog/tech-cover.jpg
 author: Shipra Chandra
 social_li_profile:
-typeDate: Technocrat | March 2023
-cost: ₹4,999 (including GST) 
+typeDate: May 2023
+cost: ₹4,999 (incl. GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

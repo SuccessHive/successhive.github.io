@@ -1,15 +1,15 @@
 ---
-weight: 2
+weight: 7
 # title: "Data Science Internship"
 titleToShow: "Data Science Internship"
 description: "If data is king, and insights maketh a business, data science is the future. Take this internship to understand if you will love it too"
 date: 2022-07-27T20:20:44+05:30
-draft: false
+draft: true
 featureImage: images/blog/data-science-cover.jpg
 author: Shipra Chandra
 social_li_profile:
-typeDate: Data Scientist | March 2023
-cost: ₹4,999 (including GST) 
+typeDate: April 2023
+cost: ₹4,999 (incl. GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

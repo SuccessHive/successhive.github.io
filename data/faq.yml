@@ -3,8 +3,8 @@ enable: true
 title: Frequently asked questions
 description: 
 faqItem:
-  - question: Why should my child enrol for KTC Career Exploration Program?
-    answer: The world is changing rapidly and it's our responsibility to send our kids out prepared. At KTC, our misssion is to empower every kid to make an informed career decision. We help kids dabble with multiple career streams in a hands-on fashion, with actual industry experts, using simulations, activities, and role-playing games.    This not ony helps them decide which career to pick, but also prepares them for their dream careers. 
+  - question: Why should a student sign up for KTC Career Exploration Program?
+    answer: At KTC, our mission is to empower every student to make an informed career decision. We enable students to test-drive multiple career streams in a hands-on fashion, with actual industry experts, using simulations, activities, and role-playing games. This not only helps them decide which career to pick, but also prepares them for their dream careers.  
     dataTarget: One
     show: show
 
@@ -14,11 +14,13 @@ faqItem:
     show: 
     
   - question: How many internships are currently available?
-    answer: Currently, we offer internships in computer science engineering and management. But we will soon be launching more internships. If you want us to launch your preferred career option next, let us know here.    
+    # answer: Currently, we offer internships in computer science engineering and management. But we will soon be launching more internships. If you want us to launch your preferred career option next, let us know here.
+    answer: Currently, we have multiple internships available in the fields of Computer Science Engineering, UX Research, UI Design, Digital Marketing, Entrepreneurship and we keep adding new internships every week. If you want us to launch internship for your preferred career option next, let us know here.    
     dataTarget: Three
     show:    
     
   - question: How can one sign up?
-    answer: It's simple. Just fill in the lead form (here) with your name, mobile number and email id, and our team will call you within 24 hours and get you onboarded. 
+    # answer: It's simple. Just fill in the lead form (here) with your name, mobile number and email id, and our team will call you within 24 hours and get you onboarded. 
+    answer: It's simple. Just fill in the form with your name, mobile number and email id, and our team will call you within 24 hours and get you onboarded.  
     dataTarget: Four
     show:

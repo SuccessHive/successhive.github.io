@@ -9,9 +9,9 @@ featureImage: images/blog/research.jpg
 by: Apurv Mehra
 social_li_profile: https://www.linkedin.com/in/apurvmehra/
 designation: Microsoft Research
-typeDate: Research Internship | Feb 2023
-cost: ₹4,999 (including GST) 
-authorThumb: images/client/author-shipra.png
+typeDate: March 2023
+cost: ₹4,999 (incl. GST) 
+authorThumb: images/mentors/mentor-apurv.png
 live: true
 ---
 
