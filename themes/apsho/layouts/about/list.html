@@ -39,12 +39,13 @@
               <p>{{ .text }}</p>
             </div> -->
             <div class="col-lg-4 col-md-6">
-              <article class="blog-post-item" style="min-height: fit-content; height: 29vh;">
+              <article class="blog-post-item" style="height: 42vh; min-height: max-content;">
                   <div class="testimonial-slider-person">
-                  <img src={{ .image }} alt="person-thumb" style="border-radius: 50%; width: 80ox; height: 80px;"/>
+                  <img src={{ .image }} alt="person-thumb" style="border-radius: 50%; width: 80px; height: 80px;"/>
                 <div class="content">
                   <h3> {{ .name }} </h3>
                   <p style="line-height: 150%;">{{ .designation }}</p>
+                  <!-- <a href="{{ .social_li_profile }}"><i class="ti-linkedin"></i></a> -->
                   <a href="{{ .social_li_profile }}"><i class="ti-linkedin"></i></a>
                 </div>
               </div>

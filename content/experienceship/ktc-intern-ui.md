@@ -1,14 +1,14 @@
 ---
-weight: 8
-title: "Pilot"
-titleToShow: "Pilot"
+weight: 4
+title: "UI Design Internship"
+titleToShow: "UI Design Internship"
 date: 2022-07-27T20:20:44+05:30
-draft: true
-featureImage: images/blog/blog-post-6.jpg
+draft: false
+featureImage: images/blog/ui-cover.jpg
 author: Shipra Chandra
 social_li_profile:
-typeDate: Pilot Internship | March 2023
-cost: ₹4,999 (including GST) 
+typeDate: April 2023
+cost: ₹4,999 (incl. GST) 
 authorThumb: images/client/author-shipra.png
 ---
 

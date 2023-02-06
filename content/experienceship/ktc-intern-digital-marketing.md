@@ -8,8 +8,8 @@ draft: false
 featureImage: images/blog/digital-marketing-cover.jpg
 author: Shipra Chandra
 social_li_profile:
-typeDate: Digital Marketeer | March 2023
-cost: ₹4,999 (including GST) 
+typeDate: April 2023
+cost: ₹4,999 (incl. GST) 
 authorThumb: images/client/author-shipra.png
 ---
 
