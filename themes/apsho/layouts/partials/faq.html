@@ -1,3 +1,4 @@
+{{ .Site.Params.someparam | markdownify }}
 {{ with .Site.Data.faq }}
   {{ if .enable }}
     <section class="faq" id="faq">
@@ -41,7 +42,7 @@
                   data-parent="#faqAccordion"
                 >
                   <div class="body">
-                    {{ .answer }}
+                    {{ .answer }} <a href="/contact/">{{ .linkToGetinTouch }}</a>
                   </div>
                 </div>
               </div>

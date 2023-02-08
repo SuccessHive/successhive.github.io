@@ -3,6 +3,7 @@ baseURL = "https://knowthychoice.in/"
 languageCode = "en-us"
 title = "KTC | Know Thy Choice"
 theme = "apsho"
+DisqusShortname = 'knowthychoice'
 
 # Navigation Bar
 [[menu.main]]
