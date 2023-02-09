@@ -2,29 +2,17 @@
 ---
 enable: true
 title: Why should you sign up?
-# services:
-#   - icon: ti-palette
-#     title: It's personalized
-#     description: We don't believe in one size fitting all. Every kid's experience is designed uniquely, and is personalized for their needs.
-
-#   - icon: ti-cup
-#     title: It's gamified
-#     description: Learning about careers shouldn't be boring. You can't escape it, so why not embrace it. We make career exploration fun, easy and engaging.
-
-#   - icon: ti-comments
-#     title: It's community-driven
-#     description: Imagine the joy of a tribe, friends with similar values and aspirations. Yep, we make that happen. So that your career journeys are a little less trying, and a little more fun. 
 
 services:
-  - icon: ti-palette
+  - icon: "images/service-icons/experience-careers.svg"
     title: Experience Real Careers
     description: Discover and experience multiple career fields to find your perfect fit.
 
-  - icon: ti-cup
+  - icon: "images/service-icons/project.svg"
     title: Project-based Learning
     description: Gain hands-on learning experience under industry experts.
 
-  - icon: ti-comments
+  - icon: "images/service-icons/build-your-profile.svg"
     title: Build your profile
     description: Get Certificate of Experience and enhance your CV. 
 

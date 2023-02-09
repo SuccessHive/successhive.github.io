@@ -22,7 +22,7 @@ live: true
 **Ex- Microsoft Research, Ex- Meesho**  
 **M.Des from Srishti Institute of Art, Design & technology**
 
-Kick-off- March 2023 (school schedule will not be disturbed)
+Kick-off- March 2023 (school schedule will not be disturbed)  
 Rs. 4999/-
 
 ## About this internship
@@ -32,7 +32,7 @@ The UX research internship will be the stepping stone for students who want to u
 ## About Anushri
 {{< unsafe >}}
 <div style="display: inline-block; ">
-<img src="/images/client/mentor-anushri.jpg" alt="mentor image" style="border-radius: 50%; height: 160px; width: 160px; float: left; margin-right: 5%;"/>
+<img src="/images/client/mentor-anushri-2.jpeg" alt="mentor image" style="border-radius: 50%; height: 160px; width: 160px; float: left; margin-right: 5%;"/>
 <p style="margin-top: 2%;">
 Anushri is a seasoned User Experience (UX) researcher and designer. She has  worked across research organizations, socio-tech start-ups and NGOs. Her UX practice brings together product design, service design, design thinking and research.
 </p>

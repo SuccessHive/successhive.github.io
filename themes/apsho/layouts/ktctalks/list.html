@@ -17,31 +17,20 @@
   </div>
 </section>
 
-<!-- {{ partial "ktctalks/pastTalks.html" . }} -->
-
-{{ partial "ktctalks/upcomingTalks.html" . }}
-
-<div class="container">
-
-  <div class="row justify-content-center">
-    <div  class="see-all-post col-12" style="text-align: center;">
-      <a href="/pasttalks" data-text="Past Talks" class="btn btn-primary" style="width: 60%;">
-        <span>Past Talks</span>
-      </a>
-    </div>
-  </div>
-</div>
-
-<!-- <section class="blog">
-  <div class="container">
+<section class="blog" style="margin-top: -5%">
+  <div class="container" style="margin: auto;">
     <div class="row">
-      {{ range (.Paginator 6).Pages }}
+      {{ range sort (.Paginator 6).Pages.ByWeight }}
         <div class="col-lg-4 col-md-6">
-          <article class="blog-post-item">
+          {{ if (eq .Params.tag "upcoming") }}
+          <article class="blog-post-item" style="position: relative;  height: 575px;">
+            <a href="{{ .Permalink }}">
+              <div style="background-color: grey; color: white; width: max-content; border-radius: 5px; padding: 3px; position: absolute; top: -1.5%; right: -2.5%;">Upcoming Soon!</div>
+            </a>
             <div class="blog-post-thumb">
               <a href="{{ .Permalink }}">
-                <img src="{{ .Params.featureImage | absURL }}" alt="blog-thumb"
-              /></a>
+                <img src="{{ .Params.featureImage | absURL }}" alt="blog-thumb" style="height: 275px;"/>
+              </a>
             </div>
             <div class="blog-post-content">
               <h2>
@@ -49,61 +38,78 @@
                   >{{ .Title }}</a
                 >
               </h2>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
                 <h6>
-                  {{ .Params.by }}
+                  Talk by {{ .Params.by }}
                 </h6>
+              </a>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
                 <p>
-                  {{ .Params.designation }}
+                  {{ .Params.estimatedDate }}
                 </p>
-                <h6>
-                  {{ .Params.typeDate }}
-                </h6>
-                <h5>
-                  {{ .Params.cost }}
-                </h5>
-              </div>
-              <div>
+              </a>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
                 <p>
-                  {{ .Description }}
+                  {{ .Params.estimatedDuration }}
                 </p>
-              </div>
-               <div class="post-author">
-                <div class="thumb">
-                  <img src="{{ .Params.authorThumb | absURL }}" alt="author-thumb" />
+              </a>
+                <div class="mx-auto" style="text-align: center;">
+                    <a href="{{ .Permalink }}" class="btn btn-primary" data-text="Register Now!" style="padding: 5% 10%; width: 100%;">
+                      Register Now!
+                    </a>
                 </div>
-                <div class="meta">
-                  <h3>{{ .Params.author }}</h3>
-                  <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+              </div>
+          </article>
+        </div>
+          {{ else }}
+          <article class="blog-post-item" style="position: relative; height: 575px;">
+            <div style="background-color: red; color: white; width: max-content; border-radius: 5px; padding: 3px; position: absolute; top: -1.5%; right: -2.5%;">Live Now!</div>
+            <div class="blog-post-thumb">
+              <a>
+                <img src="{{ .Params.featureImage | absURL }}" alt="blog-thumb" style="height: 275px;"/>
+              </a>
+            </div>
+            <div class="blog-post-content">
+              <h2>
+                <a href="{{ .Permalink }}"
+                  >{{ .Title }}</a
+                >
+              </h2>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
+                <h6>
+                  Talk by {{ .Params.by }}
+                </h6>
+              </a>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
+                <p>
+                  {{ .Params.estimatedDate }}
+                </p>
+              </a>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
+                <p>
+                  {{ .Params.estimatedDuration }}
+                </p>
+              </a>
+                <div class="mx-auto" style="text-align: center;">
+                    <a href="{{ .Permalink }}" class="btn btn-primary" data-text="Watch Now!" style="padding: 5% 10%; width: 100%;">
+                      Watch Now!
+                    </a>
                 </div>
               </div>
             </div>
           </article>
+          {{ end }}
+          {{ end }}
         </div>
-      {{ end }}
       <div class="col-lg-12">
         <div class="blog-pagination">
           <nav>
-            <ul class="pagination">
-              <li class="page-item active" aria-current="page">
-                <span class="page-link">
-                  1
-                  <span class="sr-only">(current)</span>
-                </span>
-              </li>
-              <li class="page-item"><a class="page-link" href="#">2</a></li>
-              <li class="page-item"><a class="page-link" href="#">3</a></li>
-              <li class="page-item">
-                <a class="page-link" href="#">
-                  <i class="ti-angle-right"></i>
-                </a>
-              </li>
-            </ul>
             {{ template "_internal/pagination.html" . }}
           </nav>
         </div>
       </div>
     </div>
   </div>
-</section> -->
+</section>
 
 {{ end }}
