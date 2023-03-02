@@ -13,33 +13,12 @@
         </div>
         <div class="row justify-content-center">
           {{ range first 3 $.Site.Pages }}
-          <!-- <div class="col-lg-4 col-md-6">
-            <article class="blog-post-item">
-              <div class="blog-post-thumb">
-                <a href="{{ .Permalink }}">
-                  <img src="{{ .Params.featureImage }}" alt="post-thumb"
-                /></a>
-              </div>
-              <div class="blog-post-content">
-                <h2>
-                  <a href="{{ .Permalink }}"
-                    >{{ .Params.titleToShow }}</a
-                  >
-                </h2>
-                <div class="post-author">
-                  <div class="meta">
-                    <p>{{ .Description }}</p>
-                  </div>
-                </div>
-              </div>
-            </article>
-          </div> -->
         <div class="col-lg-4 col-md-6">
           {{ if (eq .Params.live true) }}
-          <article class="blog-post-item" style="position: relative;">
-            <div style="background-color: red; color: white; width: max-content; border-radius: 5px; padding: 3px; position: absolute; top: -1.5%; right: -2.5%;">
-              Live Now!
-            </div>
+          <article class="blog-post-item" style="position: relative; height: max-content;">
+            <a href="{{ .Permalink }}">
+              <div style="background-color: red; color: white; width: max-content; border-radius: 5px; padding: 3px; position: absolute; top: -1.5%; right: -2.5%;">Live Now!</div>
+            </a>
             <div class="blog-post-thumb">
               <a href="{{ .Permalink }}">
                 <img src="{{ .Params.featureImage | absURL }}" alt="blog-thumb"/>
@@ -47,40 +26,34 @@
             </div>
             <div class="blog-post-content">
               <h2>
-                <a href="{{ .Permalink }}"
-                  >{{ .Params.titleToShow }}</a
-                >
+                <a href="{{ .Permalink }}">
+                  {{ .Params.titleToShow }}<br/><p>{{ .Params.typeDate }}</p>
+                </a>
               </h2>
-              <h6 style="width: 90%; display: inline-block;">
-                {{ .Params.by }}
-              </h6>
-              <a href="{{ .Params.social_li_profile }}" target="_blank" style="width: 5%; display: inline-block;"><i class="ti-linkedin"></i></a>
-                <p>
-                  {{ .Params.designation }}
-                </p>
-                <h6>
-                  {{ .Params.typeDate }}
-                </h6>
+              <div class="testimonial-slider-person" style="height: 80px; margin-bottom: 3%;">
+                <a href="{{ .Permalink }}">
+                  <img src={{ .Params.authorThumb }} alt="person-thumb" style="border-radius: 50%; width: 67px; height: 67px;"/>
+                </a>
+                <div class="content">
+                  <a href="{{ .Permalink }}" style="text-decoration: none;">
+                    <h3 style="font-size: 16px;"> {{ .Params.by }} </h3>
+                  </a>
+                  <a href="{{ .Permalink }}" style="text-decoration: none;">
+                    <p style="line-height: 150%;">{{ .Params.designation }}</p>
+                  </a>
+                  <a target="_blank" href="{{ .Params.social_li_profile }}">
+                    <svg height="20px" width="20px" style="margin-top: 3px;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 382 382" xml:space="preserve" fill="#FF4D6B"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#FF4D6B;" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"></path> </g></svg>
+                  </a>
+                </div>
+              </div>
+              <a href="{{ .Permalink }}" style="text-decoration: none;">
                 <h6 class="internship-cost">
                   {{ .Params.cost }}
                 </h6>
-              </div>
-              <!-- <div>
-                <p>
-                  {{ .Description }}
-                </p>
-              </div> -->
-              <!-- <div class="post-author">
-                <div class="thumb">
-                  <img src="{{ .Params.authorThumb | absURL }}" alt="author-thumb" />
-                </div>
-                <div class="meta">
-                  <h3>{{ .Params.author }}</h3>
-                  <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
-                </div>
-              </div> -->
+              </a>
             </div>
           </article>
+        </div>
           {{ else }}
           <article class="blog-post-item" style="position: relative;">
             <div style="background-color: grey; color: white; width: max-content; border-radius: 5px; padding: 3px; position: absolute; top: -1.5%; right: -2.5%;">Coming Soon!</div>
@@ -95,7 +68,6 @@
                   {{ .Params.titleToShow }}
                   </a>
               </h2>
-                  <!-- <a href="{{ .Permalink }}" data-text="Notify Me!" class="btn btn-primary" style="font-size: small; padding: 9px 25px 9px 25px; margin-bottom: 25px;"><span>Notify Me!</span></a> -->
                   <a href="/notifyme" data-text="Notify Me!" class="btn btn-primary" style="font-size: small; padding: 9px 25px 9px 25px; margin-bottom: 25px;"><span>Notify Me!</span></a>
                 <h6>
                   {{ .Params.typeDate }}
@@ -104,11 +76,6 @@
                   {{ .Params.cost }}
                 </h6>
               </div>
-              <!-- <div>
-                <p>
-                  {{ .Description }}
-                </p>
-              </div> -->
               <!-- <div class="post-author">
                 <div class="thumb">
                   <img src="{{ .Params.authorThumb | absURL }}" alt="author-thumb" />
