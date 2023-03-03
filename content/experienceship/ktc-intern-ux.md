@@ -9,10 +9,10 @@ featureImage: images/blog/ux-cover.jpg
 by: Anushri Ghode
 social_li_profile: https://www.linkedin.com/in/apurvmehra/
 designation: Ex-Microsoft Research, Ex-Meesho
+authorThumb: /images/client/mentor-anushri-2.jpg
 social_li_profile:
 typeDate: March 2023
 cost: ₹4,999 (incl. GST) 
-authorThumb: images/mentors/mentor-anushri.jpg
 live: true
 ---
 
@@ -88,4 +88,4 @@ One day,a project lands on your desk. The company wants to enhance the usability
 * Data analysis and synthesis
 * Wireframing
 
-## ![Certificate of Achievement]()
+## [Certificate of Achievement](https://drive.google.com/file/d/12i0jQZdKIiqxwo-xRPep03LOCoVM1f8b/view?usp=share_link)

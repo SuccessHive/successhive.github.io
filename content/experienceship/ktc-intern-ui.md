@@ -5,46 +5,87 @@ titleToShow: "UI Design Internship"
 date: 2022-07-27T20:20:44+05:30
 draft: false
 featureImage: images/blog/ui-cover.jpg
-author: Shipra Chandra
+by: Kajal Agarwal
+social_li_profile: https://www.linkedin.com/in/apurvmehra/
+designation: Ernst & Young, Ex- Broadcast2world
+authorThumb: /images/client/mentor-kajal.jpg
 social_li_profile:
 typeDate: April 2023
 cost: ₹4,999 (incl. GST) 
-authorThumb: images/client/author-shipra.png
+live: true
 ---
 
-## Applications are now open
+<!-- ![blog image](/images/blog/ux-post-1.jpg)   -->
+### Kajal Agarwal
+**Designer | UI Designer | Visual Designer**  
+**Ernst & Young, Ex- Broadcast2world**  
+**B.Des from Banasthali Vidhyapith**
 
-At __Know Thy Choice (KTC)__, we are on a mission to empower kids to make informed career decisions.
+Kick-off- March 2023 (school schedule will not be disturbed)  
+Rs. 4999/-
 
-We have collaborated with top industry experts to design virtual internships for school students. Through guided online sessions, students can deep dive into different careers and experience them first-hand through simulations, hands-on activities and role playing games.
+## About this internship
 
-Ideal for classes __9th to 12th__
+For students who are interested in learning how UI Design functions in businesses, the UI Design internship will serve as a springboard. Students will also benefit from improving their understanding capabilities.
 
-![blog image](/images/blog/single-blog-1.jpg)
-
-__Each virtual internship includes the following:__
-- Guided online sessions with industry experts and hands-on project experience
-- Simulations and activities for an immersive experience 
-- Cohort-based learning
-- Internship project evaluation by top professionals
-
-__Bonus:__  1 LIVE interactive session for parents with an industry expert to address al queries regarding a chosen career path
-
-__Duration:__ 8-10 hours spread over 4 weeks
-
-__Channel:__ Online sessions
-
-__What do you get?__
-- Certificate of Completion
-- Complimentary psychometric assessment
-- Lifetime access to career resources 
-- Lifetime access to KTC Community channels
-- Exciting prizes for top performers
-
-__Internships starting 6th August__
-
-Introductory price of **INR 999 /-** only
-
-<!-- Only 30 seats per cohort [Apply Now](https://forms.office.com/r/Wwe2xJwWj6) -->
+## About Kajal
+{{< unsafe >}}
+<div style="display: inline-block; ">
+<div style="height: 135px; width: 135px; overflow: hidden; border-radius: 50%; float: left; margin-right: 5%;">
+<img src="/images/client/mentor-kajal.jpg" alt="mentor image" style="height: 180px;"/>
+</div>
+<p style="margin-top: 2%;">
+Kajal has years of experience as a researcher and UI designer. She has experience in a variety of industries, including banking, healthcare, and automobile. Her UI-UX practice combines visual design, design thinking, research, product design, and service design.
+</p>
+</div>
+{{< /unsafe >}}
+<br/>
 
 
+### Internship Project Brief: 
+
+The pandemic brought about a huge behavioral change in the way people communicate and learn. The education sector is witnessing the shift from offline learning to online learning as students and faculty members worldwide are adapting to virtual learning platforms.
+
+Imagine you are working as a UI Designer on such a virtual learning platform (video conferencing tool). This platform works on a personal computer, laptop, or mobile phone with or without video. It allows students and faculty to learn, collaborate and connect. 
+
+One day, project research lands on your desk. The company wants to enhance the usability of this learning platform to increase student engagement. With the project research in hand, your job is to decide on its look and feel, easy user navigation and information exchange, and come up with a pleasant and usable design. 
+
+### Research Objective:
+* Understand how and why students are currently using this platform. (Motivation)
+* What are the challenges they face while using this platform (Pain points)
+
+### Design Plan:
+1. Planning the strategy - With the research we have in hand, we will strategies its flow.
+2. Preparing the tools - Platform guidelines, User interface basics
+3. Complete guide to Figma - How to use Figma on web & desktop, Understanding components and variants, Learning responsive design, Creating stylesheet for Hand-Off, Prototyping
+4. iOS - Understanding HIC, interface, iOS guidelines, and other UI rules
+5. Color theory and Typography - Understanding the usage of colors on UI, Finding inspirations for iOS screens 
+6. Prototyping and - Interactions and micro-interactions
+7. Android review -  Introduction to material design, Understanding various sections of a screen
+8. Web review - Responsive and adaptive, web guidelines
+9. Resources - Resources for UI elements
+10. Presentation - Showcasing Design.
+
+
+### What tools will you use?
+* Figma: To practice and design the final screens
+
+### At the end of this internship, you will be able to:
+* Look critically at how UI can support UX findings and implement them
+* Apply methods for evaluating, analyzing, and interpreting the design.
+* Make an industry-standard presentation.
+* Work with a design tool.
+
+### You will learn these soft skills:
+* Design thinking
+* Empathy
+* Creativity
+* Situational Awareness
+* Curiosity
+
+### You will learn these applied skills:
+* Visual Design 
+* Data representation
+* Information architecture 
+
+## [Certificate of Achievement](https://drive.google.com/file/d/12i0jQZdKIiqxwo-xRPep03LOCoVM1f8b/view?usp=share_link)
