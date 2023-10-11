@@ -25,6 +25,8 @@ If you look at the current ecosystem, most decisions are taken in consultation w
 
 One way to solve this is to take the services of a career counsellor or coach. Another way could be to explore resources or repositories specially designed for this purpose that are available on the internet. Exploration can also be facilitated by means of experiential learning, through virtual or real project-based internships, simulations, and games. It also helps to talk to seniors who have gone through similar exploration journeys and their approaches and decision-making frameworks.   
 
+
+![Career Guidance](images/blog/demystifying-career-guidance.jpg "Demystifying Career Guidance")
 ### Advantages of career counselling:   
 
 * Career counselling helps with solidifying one’s roadmap- whether you have no idea about future career prospects or even if you have already made a decision
