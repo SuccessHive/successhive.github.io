@@ -1,7 +1,7 @@
 ---
 title: Demystifying Career Guidance 
 author: "Shipra Chandra"
-datePublished: "6 October, 2023"
+datePublished: "2023-10-06T20:20:44+05:30"
 featureImage: images/blog/demystifying-career-guidance.jpg
 ---
 
