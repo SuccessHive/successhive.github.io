@@ -5,6 +5,7 @@
     <link>https://knowthychoice.in/categories/</link>
     <description>Recent content in Categories on KTC | Know Thy Choice</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://knowthychoice.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://knowthychoice.in/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
