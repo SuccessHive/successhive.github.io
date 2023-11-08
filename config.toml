@@ -59,7 +59,7 @@ DisqusShortname = 'knowthychoice'
 # Footer Address
 [params.address]
 address = "Bengaluru, India"
-email = "hello@knowthychoice.in"
+email = "shipra@knowthychoice.in"
 phone = "+91 874 595 6961"
 
 # Footer Social
