@@ -78,8 +78,8 @@ googleAnalytics = "G-251ESPDTK1"
 
 # Footer
 footerTitle = "Get the latest updates"
-copyright1 = "All right reserved"
-copyright2 = "Copyright © KTC {year} "
+copyright1 = "Copyright © {year} KTC"
+copyright2 = "All Rights Reserved"
 
 #contact
 email = "shipra@knowthychoice.in"

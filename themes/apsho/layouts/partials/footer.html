@@ -51,9 +51,7 @@
           <img src="{{ .Site.Params.logo | absURL }}" alt="logo" height="100"
           width="100">
           <p>
-            {{ .Site.Params.copyright1 }}
-              </br>
-              {{ replace .Site.Params.copyright2 "{year}" now.Year }}
+            {{ replace .Site.Params.copyright1 "{year}" now.Year}}
           </p>
           <ul class="footer-description-social">
             <li>
@@ -92,13 +90,15 @@
             <ul>
               <li><a href="tel:{{ $address.phone }}"><i class="ti-mobile"></i>{{ $address.phone }}</a></li> 
               <li><a href="mailto:{{ $address.email }}"><i class="ti-email"></i>{{ $address.email }}</a></li>
-              <li><p><i class="ti-pin"></i>{{ $address.address }}</p></li>
+              <li><p style="font-size:0.85em"><i class="ti-pin"></i>{{ $address.address }}</p></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
   </div>
+  <br>
+  <p style="text-align: center;">Copyright © 2023 Know Thy Choice All Rights Reserved</p>
 </footer>
 
 {{ $style := resources.Get "scss/non-critical.scss" | resources.ToCSS | minify }}
