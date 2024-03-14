@@ -2,69 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://knowthychoice.in/experienceship/ktc-research-engineer/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-research-engineer/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/ktctalks/upcomingevents/career-in-animation/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-intern-ux/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/ktc-intern-data-science/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-intern-digital-marketing/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/ktc-intern-digital-marketing/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-intern-ui/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/ktc-intern-entrepreneurship/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-intern-marketing/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-intern-entrepreneurship/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/ktc-intern-marketing/</loc>
+    <loc>http://localhost:1313/experienceship/ktc-intern-technology/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/privacy/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-01-31T12:24:42+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ktctalks/career-in-animation/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/refund/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/ktc-intern-technology/</loc>
+    <loc>http://localhost:1313/refund/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/tnc/</loc>
+    <loc>http://localhost:1313/tnc/</loc>
     <lastmod>2022-07-27T20:20:44+05:30</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/ktc-intern-ux/</loc>
-    <lastmod>2022-07-27T20:20:44+05:30</lastmod>
-  </url><url>
-    <loc>https://knowthychoice.in/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/experienceship/</loc>
+    <loc>http://localhost:1313/experienceship/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/counselling/</loc>
+    <loc>http://localhost:1313/counselling/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/ktctalks/</loc>
+    <loc>http://localhost:1313/experienceship/enquirenow/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/pasttalks/</loc>
+    <loc>http://localhost:1313/ktctalks/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/celregisternow/</loc>
+    <loc>http://localhost:1313/notifyme/</loc>
     <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/categories/</loc>
+    <loc>http://localhost:1313/celregisternow/</loc>
+    <lastmod>2020-08-31T20:33:11+06:00</lastmod>
   </url><url>
-    <loc>https://knowthychoice.in/blog/demystifying-career-guidance-/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://knowthychoice.in/contact/</loc>
+    <loc>http://localhost:1313/blog/demystifying-career-guidance/</loc>
   </url><url>
-    <loc>https://knowthychoice.in/tags/</loc>
+    <loc>http://localhost:1313/blog/psychometric-assessments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

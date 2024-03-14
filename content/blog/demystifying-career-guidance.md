@@ -2,7 +2,7 @@
 title: Demystifying Career Guidance 
 author: "Shipra Chandra"
 datePublished: "6 October, 2023"
-featureImage: images/blog/demystifying-career-guidance.jpg
+featureImage: images/blog/post-1/demyst-cg-1.png
 ---
 
 In the digitally connected modern world, we are moving away from the notion of viewing work and life as two separate components. Work is increasingly being embraced as a subset of life and we are moving towards the understanding that the quality of one's work directly impacts the overall quality of one’s life.  
@@ -26,7 +26,7 @@ If you look at the current ecosystem, most decisions are taken in consultation w
 One way to solve this is to take the services of a career counsellor or coach. Another way could be to explore resources or repositories specially designed for this purpose that are available on the internet. Exploration can also be facilitated by means of experiential learning, through virtual or real project-based internships, simulations, and games. It also helps to talk to seniors who have gone through similar exploration journeys and their approaches and decision-making frameworks.   
 
 
-![Career Guidance](/images/blog/demystifying-career-guidance.jpg)
+![Career Guidance](/images/blog/post-1/demyst-cg-2.png)
 
 ### Advantages of career counselling:   
 
