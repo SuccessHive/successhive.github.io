@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://knowthychoice.in/"
 languageCode = "en-us"
-title = "KTC | Know Thy Choice"
+title = "Know Thy Choice | India's First GenAI Powered Career Counselling Platform"
 theme = "apsho"
 DisqusShortname = 'knowthychoice'
 
